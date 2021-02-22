@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    cursor: crosshair;
+}
+#container {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(26, 26, 26);
+}
+#flexgrid {
+    background-color: rgba(85, 107, 47, 0);
+}
+.square {
+    background-color: rgb(39, 39, 39);
+}
